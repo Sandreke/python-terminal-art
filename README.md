@@ -4,8 +4,6 @@ A collection of creative terminal art projects written in Python.
 
 ## 🧑‍💻 Projects...
 
-- **💖 Heart Art** (`01_corazon.py`) - Animated heart patterns with custom text
+- `01_corazon.py`: Animated heart patterns with custom text
 
-<img src="" width="250" height="250"/>
-
-- **🌸 Initials** (`02_iniciales.py`) - Two initials with heart separator
+<img src="https://github.com/user-attachments/assets/dbf3f721-cdc8-496c-afee-db600022b099" width="250" height="250"/>
