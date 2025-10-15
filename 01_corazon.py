@@ -6,7 +6,7 @@ class Color:
     NORMAL = '\x1b[0m'
 
 def cargar_corazon():
-    with open('heart_pattern.txt', 'r') as f:
+    with open('resources/heart_pattern.txt', 'r') as f:
         return f.read()
 
 def romantizar(nombre):
